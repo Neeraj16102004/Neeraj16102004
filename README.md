@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **I THINK I AM FUNNY**
 
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Neeraj16102004&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ###
 
 <img data-importer="image" align="right" height="150" src="https://c.tenor.com/iuB1Fa6IBnYAAAAC/tenor.gif"  />
