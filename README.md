@@ -1,5 +1,15 @@
 <h2 data-importer="text" align="left">Hi 👋! My name is Neeraj Kumar and I'm a Devops & Cloud Enthusiast, from India</h2>
 
+ 🌱 I’m currently learning **Devops and Cloud technologies**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Neeraj16102004](https://github.com/Neeraj16102004)
+
+- 💬 Ask me about **Devops , Cloud and Backend technologies**
+
+- 📫 How to reach me **Mail me at neerajrananr338@gmail.com**
+
+- ⚡ Fun fact **I THINK I AM FUNNY**
+
 ###
 
 <img data-importer="image" align="right" height="150" src="https://gifgifs.com/animations/anime/bleach/sosuke-aizen/sosuke_aizen_1.gif"  />
