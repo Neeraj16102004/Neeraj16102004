@@ -1,6 +1,7 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Neeraj Kumar and I'm a Devops & Cloud Enthusiast, from India</h2>
+<h1 align="center">Hi 👋, I'm Neeraj Kumar</h1>
+<h3 align="center">A passionate Devops enthusiast from India</h3>
 
- 🌱 I’m currently learning **Devops and Cloud technologies**
+- 🌱 I’m currently learning **Devops and Cloud technologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Neeraj16102004](https://github.com/Neeraj16102004)
 
