@@ -14,7 +14,7 @@
 ####
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Neeraj16102004&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://streak-stats.demolab.com/?user=Neeraj16102004&theme=dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=Neeraj16102004&theme=dark&hide_border=false&v=1)<br/>
 
 ###
 
